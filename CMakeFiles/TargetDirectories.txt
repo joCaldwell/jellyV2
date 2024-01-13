@@ -1,0 +1,7 @@
+C:/Users/joshc/proj/jellyV2/CMakeFiles/INSTALL.dir
+C:/Users/joshc/proj/jellyV2/CMakeFiles/ALL_BUILD.dir
+C:/Users/joshc/proj/jellyV2/CMakeFiles/ZERO_CHECK.dir
+C:/Users/joshc/proj/jellyV2/Core/CMakeFiles/jellyCore.dir
+C:/Users/joshc/proj/jellyV2/Core/CMakeFiles/INSTALL.dir
+C:/Users/joshc/proj/jellyV2/App/CMakeFiles/jellyApp.dir
+C:/Users/joshc/proj/jellyV2/App/CMakeFiles/INSTALL.dir
