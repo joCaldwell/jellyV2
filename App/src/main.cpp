@@ -2,7 +2,4 @@
 
 int main() {
 	std::cout << "Hello\n";
-	while (true) {
-		;
-	}
 }
