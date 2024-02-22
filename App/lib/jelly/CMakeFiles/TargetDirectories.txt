@@ -1,0 +1,14 @@
+C:/Users/joshc/proj/jellyV2/App/Libs/jelly/CMakeFiles/jelly.dir
+C:/Users/joshc/proj/jellyV2/App/Libs/jelly/CMakeFiles/INSTALL.dir
+C:/Users/joshc/proj/jellyV2/App/Libs/jelly/CMakeFiles/ALL_BUILD.dir
+C:/Users/joshc/proj/jellyV2/App/Libs/jelly/CMakeFiles/ZERO_CHECK.dir
+C:/Users/joshc/proj/jellyV2/App/Libs/jelly/Libs/glfw/CMakeFiles/uninstall.dir
+C:/Users/joshc/proj/jellyV2/App/Libs/jelly/Libs/glfw/CMakeFiles/INSTALL.dir
+C:/Users/joshc/proj/jellyV2/App/Libs/jelly/Libs/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/joshc/proj/jellyV2/App/Libs/jelly/Libs/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/joshc/proj/jellyV2/App/Libs/jelly/Libs/glfw/src/CMakeFiles/glfw.dir
+C:/Users/joshc/proj/jellyV2/App/Libs/jelly/Libs/glfw/src/CMakeFiles/INSTALL.dir
+C:/Users/joshc/proj/jellyV2/App/Libs/jelly/Libs/glm/CMakeFiles/INSTALL.dir
+C:/Users/joshc/proj/jellyV2/App/Libs/jelly/Libs/glm/CMakeFiles/ALL_BUILD.dir
+C:/Users/joshc/proj/jellyV2/App/Libs/jelly/Libs/glm/glm/CMakeFiles/glm.dir
+C:/Users/joshc/proj/jellyV2/App/Libs/jelly/Libs/glm/glm/CMakeFiles/INSTALL.dir

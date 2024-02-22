@@ -1,0 +1,69 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"lib/jelly/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 63,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"lib/jelly/libjelly.a"
+			],
+			"targetId" : "jelly::@c623352f0555dff068fc",
+			"targetIndex" : 2,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/jelly",
+			"exportName" : "jellyTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "jelly::@c623352f0555dff068fc",
+					"index" : 2
+				}
+			],
+			"paths" : 
+			[
+				"lib/jelly/CMakeFiles/Export/4f3982307b140fe4c3939e0b7f23ad95/jellyTargets.cmake"
+			],
+			"type" : "export"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "lib/jelly",
+		"source" : "lib/jelly"
+	}
+}

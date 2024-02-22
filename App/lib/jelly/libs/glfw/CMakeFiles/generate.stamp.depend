@@ -1,0 +1,18 @@
+# CMake generation dependency list for this directory.
+C:/Users/joshc/AppData/Local/CMake/share/cmake-3.29/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Users/joshc/AppData/Local/CMake/share/cmake-3.29/Modules/CMakeDependentOption.cmake
+C:/Users/joshc/AppData/Local/CMake/share/cmake-3.29/Modules/CMakePackageConfigHelpers.cmake
+C:/Users/joshc/AppData/Local/CMake/share/cmake-3.29/Modules/CheckCSourceCompiles.cmake
+C:/Users/joshc/AppData/Local/CMake/share/cmake-3.29/Modules/CheckIncludeFile.cmake
+C:/Users/joshc/AppData/Local/CMake/share/cmake-3.29/Modules/CheckLibraryExists.cmake
+C:/Users/joshc/AppData/Local/CMake/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/joshc/AppData/Local/CMake/share/cmake-3.29/Modules/FindPackageMessage.cmake
+C:/Users/joshc/AppData/Local/CMake/share/cmake-3.29/Modules/FindThreads.cmake
+C:/Users/joshc/AppData/Local/CMake/share/cmake-3.29/Modules/GNUInstallDirs.cmake
+C:/Users/joshc/AppData/Local/CMake/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake
+C:/Users/joshc/AppData/Local/CMake/share/cmake-3.29/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/joshc/proj/jellyV2/App/Libs/jelly/Libs/glfw/CMakeLists.txt
+C:/Users/joshc/proj/jellyV2/App/Libs/jelly/Libs/glfw/cmake_uninstall.cmake.in
+C:/Users/joshc/proj/jellyV2/App/Libs/jelly/Libs/glfw/src/glfw3.pc.in
+C:/Users/joshc/proj/jellyV2/App/Libs/jelly/Libs/glfw/src/glfw3Config.cmake.in
+C:/Users/joshc/proj/jellyV2/App/Libs/jelly/Libs/glfw/src/glfw_config.h.in

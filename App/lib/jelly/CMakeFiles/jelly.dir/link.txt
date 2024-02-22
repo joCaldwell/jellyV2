@@ -1,0 +1,2 @@
+C:\Users\joshc\AppData\Local\Mingw\bin\llvm-ar.exe qc libjelly.a CMakeFiles/jelly.dir/src/core.cpp.obj
+C:\Users\joshc\AppData\Local\Mingw\bin\llvm-ranlib.exe libjelly.a
